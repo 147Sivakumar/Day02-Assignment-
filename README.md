@@ -1,4 +1,4 @@
-# Day02-Assignment-
+# Day02-Assignment
 
 ## Grade System
 
