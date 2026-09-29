@@ -22,6 +22,6 @@ I used `try-except` to handle input that is not a number, such as letters or wor
 
 ### Student Grade System
 
-![Student Grade System](screenshot.jpg)
+![Student Grade System](Student Grade System.png)
 
-* `screenshot.jpg` — Screenshot showing the program running in the terminal.
+* `Student Grade System.png` — Screenshot showing the program running in the terminal.
