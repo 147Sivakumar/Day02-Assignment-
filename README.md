@@ -19,9 +19,4 @@ I used `try-except` to handle input that is not a number, such as letters or wor
 ### Files
 
 * `grade_system.py` — Python program for calculating the grade.
-
-### Student Grade System
-
-![Student Grade System](Student Grade System.png)
-
 * `Student Grade System.png` — Screenshot showing the program running in the terminal.
